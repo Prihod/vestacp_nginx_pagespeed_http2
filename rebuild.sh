@@ -186,4 +186,4 @@ then
     systemctl daemon-reload
 fi
 
-service nginx restart  GROUP
+service nginx restart
