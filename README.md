@@ -18,6 +18,8 @@ Links
 
 <https://www.openssl.org/source/> 
 
+[Check if mod_pagespeed is enabled](https://ismodpagespeedworking.com/)
+
 [Vesta upgrade PHP](https://www.mysterydata.com/how-to-upgrade-php-7-0-to-php-7-1-or-php-7-2-on-ubuntu-vestacp/)
 
 [Vesta dkim public key located](https://github.com/serghey-rodin/vesta/issues/320)
